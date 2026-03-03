@@ -70,7 +70,7 @@ Foram analisadas métricas de treino e teste para verificar:
 * Overfitting: desempenho muito superior no treino
 * Underfitting: desempenho baixo em ambos
 
-A comparação entre modelos ajudou a identificar qual apresentou melhor desempenho na previsão da evasão(churn).
+A comparação entre modelos permitiu identificar aquele com melhor equilíbrio entre capacidade de generalização e desempenho na classe minoritária(churn).
 
 ---
 
