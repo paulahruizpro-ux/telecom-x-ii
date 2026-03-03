@@ -26,7 +26,6 @@ A partir de técnicas de pré-processamento, balanceamento de dados e modelagem 
 ### 1️⃣ Análise Exploratória (EDA)
 
 * Distribuição da variável alvo (Churn)
-* Análise de correlação
 * Visualização de variáveis numéricas e categóricas
 
 ### 2️⃣ Pré-processamento
@@ -35,6 +34,7 @@ A partir de técnicas de pré-processamento, balanceamento de dados e modelagem 
 * Divisão em treino e teste
 * Balanceamento de classes (SMOTE)
 * Normalização com `StandardScaler`
+* Análise de correlação
 
 ⚠️ O balanceamento foi aplicado apenas nos dados de treino para evitar vazamento de dados.
 
