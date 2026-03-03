@@ -17,7 +17,7 @@ A partir de técnicas de pré-processamento, balanceamento de dados e modelagem 
 * Treinar e comparar modelos de classificação
 * Avaliar métricas além da acurácia
 * Interpretar importância das variáveis
-* Verificar possíveis indícios de overfitting ou underfitting
+* Fornecer conclusões e recomendações estratégicas
 
 ---
 
